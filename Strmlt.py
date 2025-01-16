@@ -5,7 +5,7 @@ import numpy as nm
 ##Title
 st.title("Welcome to Maheshawari Institue")
 ##image
-bg_img = r"c:\Users\Bhumika.barskar\Downloads\logo.enc"
+bg_img = r"c:\Users\Bhumika.barskar\Downloads\logo.png"
 st.image(bg_img)
 
 ##simple text
